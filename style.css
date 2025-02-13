@@ -1,0 +1,103 @@
+body {
+    font-family: comic sans-serif;
+    /*background-color: rgb(237, 237, 237);*/
+    background-image: url(assets/pictures/8261043-ITSKKZIC-7.jpg);
+    image-rendering: auto;
+    display: flex;
+}
+.container {
+    margin: auto;
+    padding: 3px;
+    border: 0px solid #000000;
+    min-height: max-content;
+}
+
+h2,
+h4 {
+    text-align: center;
+    font-size: 23px;
+}
+#intro {
+    text-align: center;
+}
+.bottom{
+    align-content: center;
+    border: 2px solid #152634c5;
+    margin: auto;
+    padding: 5px;
+    background-color: #152634b8;
+    max-width: 400px;
+    border-radius: 5px;
+
+}
+.check{
+    margin: auto;
+    padding: 3px;
+    border: 0px solid #000000;
+    max-width: 350px;
+    min-width: 190px;
+    display: flex;
+    flex-direction: column;
+    background-color: #41275400;
+    text-align: center;
+}
+.enter-button{
+    text-align: center;
+    margin: auto;
+    margin-top: 3px ;
+}
+#check-button {
+    border-radius: 7px;
+    background-color: #c7bcbc;
+    margin: auto;
+    font-size: 17px;
+    padding: 5px;
+    min-width: 60px;
+}
+#combination {
+    padding: 5px;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    /*margin-left: 10px;*/
+    border: 3px solid #846c6c;
+    border-radius: 5px;
+    max-width: 120px;
+    min-width: 120px;
+    background-color: #b9bf9a;
+    font-size: 20px;
+}
+#combination_ {
+    font-size: 20px;
+}
+#sweetMessage {
+    background-color: #d50628ac;
+    font-size: 20px;
+    border-radius: 5px;
+    color: #0b0c07;
+    /*padding: 10px;*/
+}
+
+#invalid,
+#empty{
+    background-color: #d50628ac;
+    font-size: 30px;
+    border-radius: 5px;
+    color: #0b0c07;
+    text-align: center;
+}
+
+.music-controls {
+    text-align: center;
+}
+#pause-music{
+    background-color: #122421df;
+    margin: auto;
+    margin-right: 40px;
+}
+#play-music {
+    background-color: #122421df;
+    margin: auto;
+    margin-left: 40px;
+
+}

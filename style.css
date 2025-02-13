@@ -93,11 +93,17 @@ h4 {
 #pause-music{
     background-color: #122421df;
     margin: auto;
-    margin-right: 40px;
+    margin-right: 30px;
 }
 #play-music {
     background-color: #122421df;
     margin: auto;
-    margin-left: 40px;
+    margin-left: 30px;
 
+}
+#clear {
+    background-color: #122421df;
+    margin: auto;
+    margin-left: 30px;
+    margin-right: 30px;
 }

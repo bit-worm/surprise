@@ -89,6 +89,8 @@ h4 {
 
 .music-controls {
     text-align: center;
+    border: 0px solid #000000;
+    display: flex;
 }
 #pause-music{
     background-color: #122421df;

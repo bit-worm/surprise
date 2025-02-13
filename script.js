@@ -24,11 +24,11 @@ checkButton.addEventListener('click', function() {
 
             var i = 0;
             var msg = 'Hey Daniellah 😊 Happy Valentine\'s to you 😁 \
-                I didn\'t know I was gonna celebrate this day with such a beautiful gal 😍\
+                I didn\'t know I was gonna celebrate this day with such a beautiful gal 😍 \
                 The little time we\'ve spent together has been awesome.\
-                When I\'m with you everything feels right 😌\
-                You make me happy and I think you are amazing 🤩, strong 💪, determined 🙂 and you have a sweet heart ☺️\
-                I hope I get to spend more and more time with you';
+                When I\'m with you everything feels right 😌 \
+                You make me happy and I think you are amazing 🤩, strong 💪, determined 🙂 and you have a sweet heart ☺️ \
+                I hope I get to spend more and more time with you.';
 
             var speed = 120;
 

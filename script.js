@@ -6,7 +6,7 @@ const invalid = document.querySelector('#invalid');
 const music = document.querySelector('#music');
 const pauseMusic = document.querySelector('#pause-music');
 const playMusic = document.querySelector('#play-music');
-const clear = document.querySelector('#clear');
+const clearButton = document.querySelector('#clear');
 
 
 checkButton.addEventListener('click', function() {
@@ -55,7 +55,7 @@ pauseMusic.addEventListener('click', function() {
 playMusic.addEventListener('click', function() {
     music.play();
 });
-clear.addEventListener('click', function() {
+clearButton.addEventListener('click', function() {
     window.location.reload();
 });
 
